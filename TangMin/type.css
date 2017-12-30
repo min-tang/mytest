@@ -1,0 +1,120 @@
+#content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 1.2em; COLOR: #000; PADDING-TOP: 0px; BACKGROUND-COLOR: #fff
+}
+#content P {
+	FONT-SIZE: 14px
+}
+#content UL LI {
+	FONT-SIZE: 14px
+}
+#content OL LI {
+	FONT-SIZE: 14px
+}
+#content P {
+	MARGIN: 0.5em 1em 1em 1.5em
+}
+#content UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px 0px 1.75em; PADDING-TOP: 0px
+}
+#content UL.indexlist LI {
+	MARGIN: 0px; LIST-STYLE-TYPE: disc
+}
+#content UL.indexlist2 LI {
+	MARGIN: 0.5em 0px 0px; LIST-STYLE-TYPE: square
+}
+#content UL.indexlist3 LI {
+	MARGIN: 0.5em 0px 0px 1.75em; LIST-STYLE-TYPE: square
+}
+#content UL.indexlist4 LI {
+	MARGIN: 0px 0px 0px 1.75em; LIST-STYLE-TYPE: disc
+}
+#content UL.indexlist5 LI {
+	PADDING-BOTTOM: 0.25em; MARGIN: 0.5em 0px 0px; LIST-STYLE-TYPE: square
+}
+#content UL.indexlist6 LI {
+	PADDING-BOTTOM: 0.25em; MARGIN: 0.5em 0px 0px; LIST-STYLE-TYPE: disc
+}
+#content H1 {
+	FONT-SIZE: 22px; PADDING-BOTTOM: 0.25em; MARGIN: 0.25em 0.25em 1em -0.75em; BORDER-BOTTOM: #aaa 4px solid
+}
+#content H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; MARGIN: 1.4em 0.25em 1em -0.25em; BORDER-BOTTOM: #ccc 2px solid
+}
+#content H2 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; MARGIN: 1.4em 0.25em 1em -0.25em; BORDER-BOTTOM: #ccc 2px solid
+}
+#content H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 1.6em 0.25em 0.5em 0px
+}
+#content H3 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN: 1.6em 0.25em 0.5em 0px
+}
+#content H4 {
+	FONT-SIZE: 14px; MARGIN: 0.6em 0.25em 0.25em 0px
+}
+#content H5 {
+	FONT-SIZE: 12px; MARGIN: 0.6em 0.25em 0.25em 0px
+}
+#content TABLE TH {
+	FONT-SIZE: 15px
+}
+#content .hidden {
+	LEFT: 0px; OVERFLOW: hidden; WIDTH: 1px; POSITION: absolute; TOP: -500px; HEIGHT: 1px
+}
+#content .form {
+	FONT-SIZE: 14px; LINE-HEIGHT: 2em
+}
+#content .form .label {
+	TEXT-ALIGN: right
+}
+#content .submitForm {
+	PADDING-RIGHT: 0.5em; MARGIN-TOP: 0.5em; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.5em; MARGIN-LEFT: 1em; PADDING-TOP: 0.5em
+}
+#content P.important {
+	PADDING-RIGHT: 1em; BORDER-TOP: red 2px dotted; PADDING-LEFT: 1em; FONT-SIZE: 15px; PADDING-BOTTOM: 1em; MARGIN: 3em 2em; PADDING-TOP: 1em; BORDER-BOTTOM: red 2px dotted
+}
+#content PRE {
+	FONT-SIZE: 12px
+}
+#content #loginStatus {
+	BORDER-RIGHT: #ccc 5px solid; PADDING-RIGHT: 0.5em; MARGIN-TOP: -12px; PADDING-LEFT: 0.5em; FONT-SIZE: 10px; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; TEXT-ALIGN: right
+}
+#directory TD {
+	FONT-SIZE: 12px; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; WHITE-SPACE: nowrap; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#directory TH {
+	BORDER-TOP-STYLE: none; BORDER-BOTTOM: #000 1px solid; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none
+}
+#directory TR.odd TD {
+	BACKGROUND-COLOR: #eee
+}
+#directory TR.anchor TD {
+	BACKGROUND-COLOR: #fc6
+}
+#pageMenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#pageMenu P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+#pageMenu P A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+#pageMenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0.75em; PADDING-TOP: 0px
+}
+#pageMenu TABLE TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0.75em; PADDING-TOP: 0px
+}
+#pageMenu TABLE TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN-LEFT: 0.75em; PADDING-TOP: 0px
+}
+#pageMenu UL LI P {
+	
+}
+#pageMenu UL LI P A {
+	
+}
+#pageMenu UL UL {
+	MARGIN: 0.5em 0px 0.5em 1.5em
+}
